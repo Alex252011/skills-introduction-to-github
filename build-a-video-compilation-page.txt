@@ -1,0 +1,38 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>My youtube page</h1>
+        <p>this is my first youtube page</p>
+        <section>
+            <h2>first match</h2>
+            <p>5-0</p>
+            <iframe src="https://youtu.be/AGrkv6X9IJI?si=GaH9NgZMUFJ02mWY" title="first match" height="200px" width="450px"></iframe>
+        </section>
+        <section>
+            <h2>second match</h2>
+            <p>5-0</p>
+            <iframe src="https://youtu.be/eg1AUxzN8LE?si=bX8TTV8qkykbaj7B" title="second match" height="200px" width="450px"></iframe>
+        </section>
+        <section>
+            <h2>third match</h2>
+            <p>3-0</p>
+            <iframe src="https://youtu.be/tdVUHmh5Go0?si=UKL-KG8Yrbgrk76T" title="third match" height="200px" width="450px"></iframe>
+        </section>
+        
+    </main>
+
+</body>
+
+</html>
+
+** end of index.html **
+
